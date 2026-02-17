@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pretty_midi
+pydantic-settings
+python-multipart
+midi2audio
+numpy
+requests
+pytest
+httpx
