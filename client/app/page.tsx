@@ -113,7 +113,7 @@ export default function Home() {
               'Generating...'
             ) : (
               <>
-                <Download size={20} /> Generate MIDI
+                <Download size={20} /> Generate MIDI here my boi
               </>
             )}
           </button>
